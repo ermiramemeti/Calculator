@@ -1,0 +1,9 @@
+c:\users\x\documents\visual studio 2012\Projects\kalkulator1\kalkulator1\bin\Debug\kalkulator1.exe.config
+c:\users\x\documents\visual studio 2012\Projects\kalkulator1\kalkulator1\bin\Debug\kalkulator1.exe
+c:\users\x\documents\visual studio 2012\Projects\kalkulator1\kalkulator1\bin\Debug\kalkulator1.pdb
+c:\users\x\documents\visual studio 2012\Projects\kalkulator1\kalkulator1\obj\Debug\kalkulator1.Properties.Resources.resources
+c:\users\x\documents\visual studio 2012\Projects\kalkulator1\kalkulator1\obj\Debug\kalkulator1.csproj.GenerateResource.Cache
+c:\users\x\documents\visual studio 2012\Projects\kalkulator1\kalkulator1\obj\Debug\kalkulator1.exe
+c:\users\x\documents\visual studio 2012\Projects\kalkulator1\kalkulator1\obj\Debug\kalkulator1.pdb
+C:\Users\X\documents\visual studio 2012\Projects\kalkulator1\kalkulator1\obj\Debug\kalkulator1.csprojResolveAssemblyReference.cache
+C:\Users\X\documents\visual studio 2012\Projects\kalkulator1\kalkulator1\obj\Debug\kalkulator1.Calculator.resources
